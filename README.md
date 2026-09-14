@@ -4,7 +4,8 @@
 # Carrinho mecatronico
 Projeto de veículo mecatrônico usando sucata de lixo eletrônico.
 
-![](img/carrinho-mecatronico.jpg)
+![](<img width="1770" height="1328" alt="image" src="https://github.com/user-attachments/assets/04ea094e-2d7d-41db-b7e3-2993805cf842" />
+)
 
 ## Autores 
 - Matheus Guedes
