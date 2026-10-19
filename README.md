@@ -12,12 +12,12 @@ Este projeto tem como objetivo desenvolver um carrinho utilizando componentes el
 # Materiais utilizados 
 
 # Etapas do Projeto 
--Planejamento.
--Identificação e seleção dos componentes.
--Montagem da estrutura.
--Instalação dos componentes eletrônicos.
--Programação e testes.
--Ajustes e conclusão
+- Planejamento.
+- Identificação e seleção dos componentes.
+- Montagem da estrutura.
+- Instalação dos componentes eletrônicos.
+- Programação e testes.
+- Ajustes e conclusão
 
 ![](C:\Users\jonatha.lsantos\AppData\Local\Microsoft\Windows\INetCache\IE\QN5QJOC5\IMG-20260914-WA0016(5)[1].jpg)
 
