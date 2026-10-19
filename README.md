@@ -1,12 +1,12 @@
 ![GitHub License](https://img.shields.io/github/license/matheusromeroguedes-commits/carrinho-)
 
 
-# Carrinho com Sucata Eletronica  
+# Carrinho com Sucata Eletrônica  
 Este projeto tem como objetivo desenvolver um carrinho utilizando componentes eletrônicos reaproveitados, explorando conceitos de eletrônica, programação e mecânica.
 
 # Objetivos 
-- Reaproveitar componentes de sucata eletronica.
-- Aprender conceitos básicos de eltronica e programação.
+- Reaproveitar componentes de sucata eletrônica.
+- Aprender conceitos básicos de eltrônica e programação.
 - Construir e testar um carrinho funcional.
 
 # Materiais utilizados 
