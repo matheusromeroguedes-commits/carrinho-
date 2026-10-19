@@ -1,8 +1,8 @@
 ![GitHub License](https://img.shields.io/github/license/matheusromeroguedes-commits/carrinho-)
 
 
-# Carrinho com sucata 
-Projeto de veículo mecatrônico usando sucata de lixo eletrônico.
+# Carrinho com Sucata Eletronica  
+Este projeto tem como objetivo desenvolver um carrinho utilizando componentes eletrônicos reaproveitados, explorando conceitos de eletrônica, programação e mecânica.
 
 ![](C:\Users\jonatha.lsantos\AppData\Local\Microsoft\Windows\INetCache\IE\QN5QJOC5\IMG-20260914-WA0016(5)[1].jpg)
 
