@@ -4,6 +4,11 @@
 # Carrinho com Sucata Eletronica  
 Este projeto tem como objetivo desenvolver um carrinho utilizando componentes eletrônicos reaproveitados, explorando conceitos de eletrônica, programação e mecânica.
 
+# Objetivos 
+- Reaproveitar componentes de sucata eletronica.
+- Aprender conceitos básicos de eltronica e programação.
+- Construir e testar um carrinho funcional.
+  
 ![](C:\Users\jonatha.lsantos\AppData\Local\Microsoft\Windows\INetCache\IE\QN5QJOC5\IMG-20260914-WA0016(5)[1].jpg)
 
 ## Autores 
