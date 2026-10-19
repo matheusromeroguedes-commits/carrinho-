@@ -11,6 +11,7 @@ Projeto de veículo mecatrônico usando sucata de lixo eletrônico.
 - Victor Garcia 
 - Luccena
 - Eduardo
+- Felipe Dodo
 
 ---
 ## Simulador do projeto
