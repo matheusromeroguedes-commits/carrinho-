@@ -11,6 +11,19 @@ Este projeto tem como objetivo desenvolver um carrinho utilizando componentes el
 
 # Materiais utilizados 
 
+- 1 Garrafa PET
+- 2 conjuntos de rodas
+- 1 hélice de qualquer tipo que possa ser adaptada ao motor
+- 1 motor DC (3 a 6 V)
+- 1 LDR de 5mm
+- 1 Transistor TIP120 ou equivalente
+- 1 Diodo 1N4007 ou equivalente
+- 1 resistor de 10 kΩ — código de cores: marrom, preto, laranja e dourado
+- 1 Suporte para uma bateria de íon de lítio
+- 1 bateria íon de lítio de 3.7 V
+- 1 barra de conectores parafusados (4 terminais)
+- Fios, parafusos, fita isolante e cola quente
+
 # Etapas do Projeto 
 - Planejamento.
 - Identificação e seleção dos componentes.
