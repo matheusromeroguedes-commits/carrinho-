@@ -11,7 +11,7 @@ Este projeto tem como objetivo desenvolver um carrinho utilizando componentes el
 
 # Materiais utilizados 
 
-https://github.com/matheusromeroguedes-commits/carrinho-/blob/e74000e99ac4cacc5001f930f899307e96cc48a6/Image.jpg
+![image alt](https://github.com/matheusromeroguedes-commits/carrinho-/blob/e74000e99ac4cacc5001f930f899307e96cc48a6/Image.jpg)
 
 - 1 Garrafa PET
 - 2 conjuntos de rodas
